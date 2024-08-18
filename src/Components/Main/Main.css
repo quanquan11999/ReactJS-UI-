@@ -1,0 +1,21 @@
+
+.testimonial-section .image-container .author-pic img {
+    width: 80px; /* Adjust the width as needed */
+    height: 80px; /* Adjust the height as needed */
+    object-fit: cover; /* This will maintain the aspect ratio and fill the container */
+    border-radius: 50%; /* Make it a circle */
+    margin-bottom: 10px;
+    margin-top: -20px;
+  }
+  
+  .testimonial-section .image-container .author-pic h3 {
+    font-size: 1.25rem; /* Adjust the font size as needed */
+    font-weight: bold;
+    
+  }
+  
+  .testimonial-section .image-container .author-pic p {
+    font-size: 0.875rem; /* Adjust the font size as needed */
+   
+  }
+  

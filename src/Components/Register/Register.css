@@ -1,0 +1,63 @@
+.register-container {
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .register-card {
+    width: 400px;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .register-title {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .register-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .register-form label {
+    font-weight: bold;
+  }
+  
+  .social-register {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .social-buttons {
+    margin-top: 10px;
+  }
+  
+  .register-footer {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .register-footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .register-footer a:hover {
+    text-decoration: underline;
+  }
+
+  .maubang {
+    background-color:
+    #D9FED8;
+    border: 1px solid
+    #33DA03;
+    border-collapse: collapse;
+    font-size: 20px;
+    width:500px;
+    margin: 0px auto;
+  }
+  input {
+    font-size: 20px;
+    padding:10px;
+  }
